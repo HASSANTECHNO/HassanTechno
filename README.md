@@ -1,6 +1,6 @@
 <div align="center">
 
-# سلام، من حسن هستم 👋
+# سلام، من تکنو هستم 👋
 
 ### توسعه‌دهنده اندروید | Kotlin · Jetpack Compose
 
